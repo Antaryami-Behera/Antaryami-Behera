@@ -12,7 +12,7 @@
   </p>
 
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/antaryami-behera/"/>
+    <img src="https://www.linkedin.com/in/antaryami-behera/" alt="LinkedIn"/>
   </a>
   <a href="https://aws.amazon.com/">
     <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
@@ -166,10 +166,6 @@ Learning Japanese is part of my journey toward working in an international engin
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
   <br/><br/>
 
