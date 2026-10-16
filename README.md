@@ -1,31 +1,15 @@
- <div align="center">
+<div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Cloud%20%7C%20DevOps%20%7C%20Japan&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=210&section=header&text=Cloud%20%26%20DevOps&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-  <h1>こんにちは！ I'm Abhash 👋</h1>
+# こんにちは！ I'm Antaryami Behera 👋
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&height=60&lines=Aspiring+Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Learning+AWS+%7C+CI%2FCD+%7C+Automation;Building+and+Deploying+Web+Applications;From+Code+to+Cloud+%F0%9F%9A%80;日本でエンジニアになることが目標です+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&height=65&lines=Aspiring+Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Learning+AWS+%7C+Git+%7C+CI%2FCD;Frontend+Developer+Exploring+Cloud+Deployment;Code+%E2%86%92+Build+%E2%86%92+Deploy+%F0%9F%9A%80;日本でエンジニアになることが目標です" alt="Animated Cloud and DevOps introduction" />
 
-  <p>
-    <b>☁️ Cloud Computing</b> •
-    <b>♾️ DevOps Engineering</b> •
-    <b>🌐 Web Development</b> •
-    <b>🇯🇵 Japanese Language</b>
-  </p>
+**☁️ Cloud Computing | ♾️ DevOps | 🌐 Frontend Development | 🇯🇵 Japanese**
 
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://aws.amazon.com/">
-    <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  </a>
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VISITORS&color=06B6D4&style=flat-square" alt="Profile Views"/>
+<a href="https://www.linkedin.com/in/antaryami-behera/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
@@ -33,20 +17,20 @@
 
 ## 👨‍💻 About Me | 自己紹介
 
-こんにちは！ (Konnichiwa! — Hello!)
+こんにちは！ (Konnichiwa — Hello!)
 
-I'm an aspiring **Cloud & DevOps Engineer** passionate about cloud infrastructure, automation, CI/CD pipelines, and modern application deployment.
+I'm **Antaryami Behera**, an aspiring Cloud & DevOps Engineer with a background in frontend development and a growing interest in cloud infrastructure, automation, and modern deployment practices.
 
-My journey started with frontend development, where I explored HTML, CSS, and JavaScript to build web projects. Now, I'm expanding my skills beyond writing code to understand how applications are version-controlled, containerized, deployed, monitored, and maintained in real-world environments.
+I enjoy building web projects and learning how applications move from local development to production environments.
 
-- ☁️ Exploring cloud computing and AWS services.
-- ♾️ Learning DevOps workflows, CI/CD, and infrastructure automation.
-- 🐳 Building my understanding of Docker and containerization.
-- 🔧 Practicing Git, GitHub, Linux, and deployment workflows.
-- 🌐 Bringing my frontend development experience into end-to-end deployment projects.
-- 🇯🇵 Learning Japanese with a long-term goal of exploring engineering opportunities in Japan.
+- ☁️ Exploring AWS and cloud computing fundamentals.
+- ♾️ Learning Git, GitHub, Linux, and CI/CD workflows.
+- 🐳 Exploring Docker and application containerization.
+- 🌐 Applying my frontend development experience to real-world projects.
+- 🚀 Working toward automated application deployment and cloud hosting.
+- 🇯🇵 Learning Japanese and working toward my goal of pursuing engineering opportunities in Japan.
 
-**My philosophy:** Learn by building, automate what can be automated, and improve with every deployment.
+**My goal:** Build practical projects, strengthen my cloud and DevOps skills, and become a capable software and infrastructure engineer.
 
 > コードからクラウドへ。
 >
@@ -54,99 +38,87 @@ My journey started with frontend development, where I explored HTML, CSS, and Ja
 
 ---
 
-## ☁️ Cloud & DevOps Tech Stack
+## 🛠️ Technical Skills & Tools
 
 <div align="center">
 
-### ☁️ Cloud Computing
+### ☁️ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS"/>
-
-### ♾️ DevOps & Automation
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,jenkins,bash&theme=dark" alt="DevOps tools"/>
+<img src="https://skillicons.dev/icons?i=aws,git,github,linux,docker,bash&theme=dark" alt="Cloud and DevOps technologies"/>
 
 ### 🌐 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend tools"/>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend technologies"/>
 
-### 💻 Programming & Development
+### 💻 Programming & Development Environment
 
 <img src="https://skillicons.dev/icons?i=python,vscode&theme=dark" alt="Programming tools"/>
 
 </div>
 
-> **Note:** This represents my learning and technology interests, not necessarily professional proficiency in every tool. I'm continuously building hands-on experience.
+*Technologies shown represent my learning interests and development toolkit; hands-on proficiency varies by technology.*
 
 ---
 
-## 🚀 Projects & Hands-On Learning
+## 🚀 Featured Projects
 
-### 1. ☁️ Cloud Deployment & CI/CD
+### ☁️ 1. Cloud Deployment & CI/CD
 
-**Goal:** Learn how to move an application from a local development environment to a cloud-hosted deployment.
+Working toward deploying web applications to the cloud and automating the build and deployment process.
 
-- Version control with Git and GitHub.
-- Application build and deployment automation.
-- CI/CD pipeline development.
-- Cloud hosting and deployment troubleshooting.
+- Git and GitHub for source control.
+- AWS for cloud hosting and infrastructure.
+- CI/CD pipelines for repeatable deployments.
 
-**Technologies:** `AWS` · `Git` · `GitHub` · `CI/CD`
+**Stack:** `AWS` · `Git` · `GitHub` · `CI/CD`
 
-*Status: Learning and building.*
+### 🌐 2. Frontend Development Projects
 
-### 2. 🐳 Containerization & Automation
+Building practical web interfaces and strengthening my understanding of frontend development.
 
-**Goal:** Understand how to package applications and create repeatable development and deployment workflows.
+- Responsive page layouts using HTML and CSS.
+- Interactive functionality using JavaScript.
+- Version control and project management with Git.
 
-- Learn Docker images and containers.
-- Explore environment configuration.
-- Automate repetitive tasks with shell scripting.
-- Integrate automation into deployment pipelines.
+**Stack:** `HTML5` · `CSS3` · `JavaScript` · `Git`
 
-**Technologies:** `Docker` · `Linux` · `Bash` · `Git`
+### 🐳 3. DevOps Learning Lab
 
-*Status: Learning roadmap.*
+Developing practical knowledge of Linux, containers, automation, and deployment workflows.
 
-### 3. 🌐 Frontend Development Projects
+- Learning Docker and container fundamentals.
+- Practicing command-line operations.
+- Exploring deployment automation and infrastructure as code.
 
-My frontend projects are where I began learning how to turn ideas into working web experiences.
+**Stack:** `Linux` · `Docker` · `Bash` · `AWS`
 
-- Built web interfaces using HTML and CSS.
-- Practiced JavaScript fundamentals and interactive features.
-- Learned project structure, source control, and local testing.
-- Working toward deploying frontend projects through cloud platforms and CI/CD.
-
-**Technologies:** `HTML5` · `CSS3` · `JavaScript` · `GitHub`
-
-📌 *Add links to your actual frontend repositories here so visitors can explore your work.*
+*Add repository links to completed projects as they become available.*
 
 ---
 
-## 🗺️ My Cloud & DevOps Learning Roadmap
+## 📈 My GitHub Journey
 
 <div align="center">
 
-| Stage | Focus Area | Goal |
-|:---:|---|---|
-| 01 | Git, GitHub & Linux | Master daily development workflows |
-| 02 | Networking & Cloud Fundamentals | Understand infrastructure and AWS basics |
-| 03 | AWS Services | Practice deploying applications in the cloud |
-| 04 | Docker & Containers | Package applications consistently |
-| 05 | CI/CD Pipelines | Automate build, test, and deployment workflows |
-| 06 | Infrastructure as Code | Explore Terraform and repeatable infrastructure |
-| 07 | Monitoring & Security | Learn observability and secure configurations |
-| 08 | End-to-End Projects | Build a practical cloud portfolio |
+<img src="https://img.shields.io/badge/GitHub%20Journey-Started%20March%202025-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub journey started March 2025"/>
+
+<img src="https://img.shields.io/badge/Contributions-15-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="15 contributions"/>
 
 </div>
 
-*My focus is on hands-on practice and understanding the fundamentals before moving to advanced tools.*
+I started my GitHub journey in **March 2025** and have recorded **15 contributions so far**. I'm focused on building consistently, documenting my learning, and sharing practical projects.
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages"/>
+
+</div>
 
 ---
 
 ## 🇯🇵 Japanese Learning Corner | 日本語
-
-Learning Japanese is part of my journey toward working in an international engineering environment.
 
 | Japanese | Romaji | Meaning |
 |---|---|---|
@@ -154,63 +126,40 @@ Learning Japanese is part of my journey toward working in an international engin
 | 頑張ります | Ganbarimasu | I'll do my best |
 | 毎日勉強しています | Mainichi benkyou shite imasu | I study every day |
 | 失敗は成功のもと | Shippai wa seikou no moto | Failure is the foundation of success |
-| よろしくお願いします | Yoroshiku onegaishimasu | A polite expression for building a good relationship |
+| よろしくお願いします | Yoroshiku onegaishimasu | A polite expression when building a relationship |
 
-> 日本でエンジニアとして働くことが目標です。
->
-> *Nihon de enjinia to shite hataraku koto ga mokuhyou desu.*
->
-> My goal is to work as an engineer in Japan.
+**日本でエンジニアとして働くことが目標です。**
 
-**日本語も、技術も、少しずつ上達していきます。** 🇯🇵
+*Nihon de enjinia to shite hataraku koto ga mokuhyou desu.*
 
-*I'm improving my Japanese and technical skills little by little.*
+My goal is to work as an engineer in Japan. 🇯🇵
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-  <br/><br/>
-
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
-## 🎯 Current Mission
+## 🎯 Current Learning Roadmap
 
 - [ ] Strengthen Linux and networking fundamentals.
-- [ ] Practice AWS cloud services with hands-on labs.
-- [ ] Build and deploy a complete application.
-- [ ] Create a working CI/CD pipeline.
-- [ ] Containerize an application using Docker.
-- [ ] Document projects with professional GitHub READMEs.
-- [ ] Continue studying Japanese for JLPT progression.
+- [ ] Practice AWS cloud services.
+- [ ] Deploy a frontend application to AWS.
+- [ ] Build a working CI/CD pipeline.
+- [ ] Learn Docker through practical projects.
+- [ ] Explore Terraform and infrastructure as code.
+- [ ] Continue improving Japanese language skills.
 
 ---
 
 <div align="center">
 
-  <h2>コードからクラウドへ ☁️</h2>
-  <h3>Code → Build → Automate → Deploy → Improve</h3>
+<h2>コードからクラウドへ ☁️</h2>
 
-  <p><i>Building skills today. Deploying possibilities tomorrow.</i></p>
+**Code → Build → Automate → Deploy → Improve**
 
-  <b>一緒に頑張りましょう！</b>
+<i>Building skills today. Deploying possibilities tomorrow.</i>
 
-  <br/>
+**一緒に頑張りましょう！**
 
-  <i>Issho ni ganbarimashou! — Let's do our best together!</i>
+*Issho ni ganbarimashou — Let's do our best together!*
 
-  <br/><br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=100&section=footer" width="100%" />
 
 </div>
