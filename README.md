@@ -4,8 +4,6 @@
 
   <h1>こんにちは！ I'm Abhash 👋</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&height=60&lines=Aspiring+Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Learning+AWS+%7C+CI%2FCD+%7C+Automation;Building+and+Deploying+Web+Applications;From+Code+to+Cloud+%F0%9F%9A%80;日本でエンジニアになることが目標です+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
-
   <p>
     <b>☁️ Cloud Computing</b> •
     <b>♾️ DevOps Engineering</b> •
@@ -13,11 +11,8 @@
     <b>🇯🇵 Japanese Language</b>
   </p>
 
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/antaryami-behera/"/>
   </a>
   <a href="https://aws.amazon.com/">
     <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
