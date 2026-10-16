@@ -11,8 +11,8 @@
     <b>🇯🇵 Japanese Language</b>
   </p>
 
-  <a href="https://www.linkedin.com/">
-    <img src="https://www.linkedin.com/in/antaryami-behera/" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/antaryami-behera">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://aws.amazon.com/">
     <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
