@@ -11,15 +11,13 @@
     <b>🇯🇵 Japanese Language</b>
   </p>
 
-  <a href="https://www.linkedin.com/antaryami-behera">
+  <a href="https://www.linkedin.com/in/antaryami-behera/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://aws.amazon.com/">
     <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   </a>
-
-  <br/><br/>
-
+<br/>
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VISITORS&color=06B6D4&style=flat-square" alt="Profile Views"/>
 
 </div>
